@@ -15,7 +15,7 @@
         -720,
         -176
       ],
-      "id": "c76ab5ef-f00b-424a-9eb2-8192c4e536ed",
+      "id": "****************************",
       "name": "Schedule Trigger"
     },
     {
@@ -23,7 +23,7 @@
         "assignments": {
           "assignments": [
             {
-              "id": "597eebfd-3d93-4827-b794-3c9ed14b46f9",
+              "id": "*************************",
               "name": "urls",
               "value": "[\"https://feeds.bbci.co.uk/news/rss.xml\"]",
               "type": "array"
@@ -38,7 +38,7 @@
         -496,
         -176
       ],
-      "id": "6f1514e7-1f19-4101-8b36-6b9ec711420e",
+      "id": "********************************",
       "name": "Edit Fields"
     },
     {
@@ -52,7 +52,7 @@
         -288,
         -176
       ],
-      "id": "9ecdb1d4-b87c-4300-8674-9ce4c849441f",
+      "id": "**************************",
       "name": "Split Out"
     },
     {
@@ -66,7 +66,7 @@
         -96,
         -176
       ],
-      "id": "01c81e40-29c6-4ac8-acfa-d26161e9a782",
+      "id": "*****************************************",
       "name": "RSS Read"
     },
     {
@@ -79,7 +79,7 @@
         96,
         -176
       ],
-      "id": "395cf222-d934-4ba5-9902-112f580ad531",
+      "id": "**********************************",
       "name": "Sort"
     },
     {
@@ -92,7 +92,7 @@
         272,
         -176
       ],
-      "id": "ed98c1ad-43b4-46c4-843a-5922491ba73c",
+      "id": "********************",
       "name": "Limit"
     },
     {
@@ -125,7 +125,7 @@
       "name": "Groq Chat Model",
       "credentials": {
         "groqApi": {
-          "id": "fVoacYdRQsQctkMl",
+          "id": "***************",
           "name": "Groq account"
         }
       }
@@ -142,12 +142,12 @@
         576,
         -96
       ],
-      "id": "2d3c3413-efac-4b55-a653-987b35b0df77",
+      "id": "***************************",
       "name": "Discord",
-      "webhookId": "60f122db-5ecf-4836-bf5f-722c4da27888",
+      "webhookId": "****************************",
       "credentials": {
         "discordWebhookApi": {
-          "id": "9M04qKGd7JR4wIWK",
+          "id": "**********************",
           "name": "Discord Webhook account"
         }
       }
@@ -250,12 +250,12 @@
     "binaryMode": "separate",
     "availableInMCP": false
   },
-  "versionId": "c9af51a1-9dd7-4e2a-8e02-f0cd5c878205",
+  "versionId": "***********************************",
   "meta": {
     "templateCredsSetupCompleted": true,
-    "instanceId": "d60eef591328e7bdbb5e6c350cb848842ecaebd571a24e2105cc794f82497a05"
+    "instanceId": "***********************************************"
   },
   "nodeGroups": [],
-  "id": "aFxdOTeDpBSdLI1m",
+  "id": "*****************************",
   "tags": []
 }
